@@ -371,7 +371,6 @@ Permission is hereby granted, free of charge...
 
 ## 🙌 Acknowledgments
 
-- Built with [Claude API](https://anthropic.com) for intelligent conversations
 - Voice processing with [Twilio](https://www.twilio.com)
 - Inspired by modern customer support best practices
 
@@ -383,6 +382,6 @@ Permission is hereby granted, free of charge...
 
 ⭐ If you find this project useful, please consider giving it a star!
 
-[GitHub](https://github.com/vivekchauhan000) • [Twitter](https://twitter.com) • [LinkedIn](https://linkedin.com)
+[GitHub](https://github.com/vivekchauhan000) • [LinkedIn](https://linkedin.com)
 
 </div>
